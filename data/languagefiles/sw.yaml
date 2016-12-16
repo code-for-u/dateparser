@@ -1,1 +1,76 @@
+name: Swedish
+
+dateorder: YMD
+
+skip: ["om"]
+
+monday:
+    - Måndag    
+tuesday:
+    - Tisdag    
+wednesday:
+    - Onsdag    
+thursday:
+    - Torsdag    
+friday:
+    - Fredag    
+saturday:
+    - Lördag    
+sunday:
+    - Söndag    
+
+january:
+    - Januari    
+february:
+    - Februari
+march:
+    - Mars    
+april:
+    - April    
+may:
+    - Maj    
+june:
+    - Juni    
+july:
+    - Juli    
+august:
+    - Augusti    
+september:
+    - September    
+october:
+    - Oktober    
+november:
+    - November    
+december:
+    - December    
+
+year:
+    - år    
+month:
+    - månad
+    - i månaden
+    - månader
+week:
+    - vecka
+    - i veckan
+    - veckor
+    - vecka
+day:
+    - dag    
+    - dagar
+hour:
+    - timme
+    - timmar    
+minute:
+    - minut
+    - minuter    
+second:
+    - andra
+    - sekunder    
+
+ago:
+    - sedan
+in:
+    - för
+    - efter
 
